@@ -1,0 +1,7 @@
+{
+  "name": "udemy-ionic5-qrscanner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
