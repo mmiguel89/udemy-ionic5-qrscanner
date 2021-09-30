@@ -44,3 +44,6 @@ udemy-ionic5-qrscanner.firebaseapp.com
 
 ## Icons
 https://app-manifest.firebaseapp.com/
+
+# QR generator
+https://www.qrcode.es/es/generador-qr-code/
