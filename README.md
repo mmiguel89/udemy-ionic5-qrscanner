@@ -30,6 +30,9 @@
 ## Live reload for android
 ionic capacitor run android -l --host=192.168.1.104
 
+## ISSUE
+Plugin not working: "cordova-plugin-email-composer": "^0.9.2"
+
 ## PWA
 1) ng add @angular/pwa
 2) ionic build --prod --service-worker

@@ -27,8 +27,4 @@ export class DataLocalService {
     this.records.unshift(record);
     await this._storage.set("records", this.records);
   }
-
-  open(record: Record) {
-
-  }
 }

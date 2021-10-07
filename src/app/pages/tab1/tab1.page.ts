@@ -12,8 +12,6 @@ import { DataLocalService } from '../../services/data-local.service'
 })
 export class Tab1Page {
 
-  txt: string = "";
-
   constructor(
     private barcodeScanner: BarcodeScanner,
     private dataLocalService: DataLocalService,
@@ -25,7 +23,7 @@ export class Tab1Page {
       if (!barcodeData.cancelled)
         this.saveAndOpenHistory(barcodeData.format, barcodeData.text);
     }).catch(err => {
-        this.saveAndOpenHistory("QRCode", "https://ionicframework.com/docs/native/barcode-scanner");
+        this.saveAndOpenHistory("QRCode", "geo:-31.622888,-60.611062");
     });
   }
 
