@@ -50,3 +50,8 @@ https://app-manifest.firebaseapp.com/
 
 # QR generator
 https://www.qrcode.es/es/generador-qr-code/
+
+# Map box
+mmiguel89
+mmiguel89@gmail.com
+mi...
